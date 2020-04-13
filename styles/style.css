@@ -1,0 +1,38 @@
+.section-title {
+    color: #999;
+    font-size: 1rem;
+    font-weight: light;
+    font-family: 'Roboto', sans-serif;
+    text-transform: uppercase;
+}
+
+p {
+    line-height: 18px !important;
+}
+
+.article-img {
+    position: relative;
+}
+
+.category {
+    display: block;
+    padding: 0 0.5rem;
+    font-weight: bold;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    background: rgba(255, 255, 255, 0.9);
+    color: #f72210;
+}
+
+.category-2 {
+    display: block;
+    padding: 0 0.5rem;
+    font-weight: lighter;
+    position: absolute;
+    font-size: small;
+    bottom: 0;
+    left: 0;
+    background: #c2d4d7;
+    color: #666;
+}
