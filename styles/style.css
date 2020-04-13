@@ -36,3 +36,40 @@ p {
     background: #c2d4d7;
     color: #666;
 }
+
+.border-red-thick {
+    color: #f72210;
+}
+
+.debate-author-image {
+    position: relative;
+}
+
+.debate-author-image img {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+}
+
+.vs {
+    display: flex;
+    justify-content: center;
+    margin: 1rem 0;
+    
+}
+
+.vs span {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+    background-color: #000000;
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+}
+
+.newsletter{
+    width: 90%;
+    margin: 0 auto;
+}
