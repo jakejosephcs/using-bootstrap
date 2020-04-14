@@ -73,3 +73,14 @@ p {
     width: 90%;
     margin: 0 auto;
 }
+
+
+.article-section p{
+    position: relative;
+    top: -18px;
+}
+
+.article-section .feature {
+    position: relative;
+    top: -34px;
+}
